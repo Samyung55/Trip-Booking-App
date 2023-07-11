@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "Trip-Booking-App",
-    "slug": "Trip-Booking-App"
+    "slug": "Trip-Booking-App",
+    "extra": {
+      "eas": {
+        "projectId": "c2a97d7b-7f4a-4801-b006-6da6b1c0b9e4"
+      }
+    },
+    "android": {
+      "package": "com.samyung558.TripBookingApp"
+    }
   }
 }
